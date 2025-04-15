@@ -18,11 +18,6 @@ A simple and portable function generator using ESP32, designed for educational a
 ## 📈 Schematic
 bit.ly/schematicgensin
 
-## ⚙️ How to Use
-1. Upload the code to your ESP32 using Arduino IDE
-2. Connect the OLED to ESP32 via I2C (SCL → D22, SDA → D21 by default)
-3. Power the board via USB or battery
-4. Monitor the waveform on oscilloscope or circuit
 
 ## 🛠️ Setup Instructions
 1. Install Arduino IDE
